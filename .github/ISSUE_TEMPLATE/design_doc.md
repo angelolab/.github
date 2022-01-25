@@ -32,7 +32,7 @@ Provided a description of the required inputs for this project, including column
 Provide a description of the outputs for this project, including column names for dfs, dimensions for image data, etc. If any plots will be generated, 
 provide (simple) sketches demonstrating the plot type and axes labels. 
 
-**Section 2: Implimentation details**
+**Section 2: Implementation details**
 
 Once you have completed section 1, please tag the relevant parties and iterate on the initial design details until everyone is satisfied. Then, 
 proceed to section 2
