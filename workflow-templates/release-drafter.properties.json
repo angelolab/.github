@@ -4,8 +4,8 @@
     "iconName": "book-open",
     "categories": [
         "Cython",
-        "Python",
-        "Jupyter Notebook"
+        "Jupyter Notebook",
+        "Python"
     ],
     "filePatterns": [
         "setup.py",
