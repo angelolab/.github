@@ -1,0 +1,15 @@
+{
+    "name": "Release Drafter",
+    "description": "Drafts the next version of the Release Notes as Pull Requests are merged into 'main'",
+    "iconName": "book-open",
+    "categories": [
+        "Cython",
+        "Python",
+        "Jupyter Notebook"
+    ],
+    "filePatterns": [
+        "setup.py",
+        ".travis.yml",
+        "Dockerfile"
+    ]
+}
