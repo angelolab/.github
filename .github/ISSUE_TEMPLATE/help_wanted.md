@@ -1,22 +1,11 @@
 ---
-name: Somebody help me
-about: If you're having trouble with something in the repository
+name: Questions, comments, general discussion
+about: If you have questions or comments about using the repo
 title: ''
 labels: question
 assignees: ''
 
 ---
+If you have a general question, aren't sure where to get started, or want to start a discussion about a potential issue, please head to the discussion section of the repository, which can be found at the top menu:
 
-*Please refer to our [FAQ](https://ark-analysis.readthedocs.io/en/latest/_rtd/faq.html) and look at our [known issues](https://github.com/angelolab/ark-analysis/issues) before opening a new issue*
-
-**What are you trying to do?**
-A clear and concise description of what script or function you're using
-
-**What is the problem?**
-A clear and concise description of what issue you're running into.
-
-**What have you tried so far?**
-A clear and concise description of what steps you've taken to try and address the problem.
-
-**Additional context**
-Add any other context or screenshots here.
+![](discussion_link.png)
