@@ -8,4 +8,4 @@ assignees: ''
 ---
 If you have a general question, aren't sure where to get started, or want to start a discussion about a potential issue, please head to the discussion section of the repository, which can be found at the top menu:
 
-![](discussion_link.png)
+![](https://github.com/angelolab/.github/blob/master/.github/ISSUE_TEMPLATE/discussion_link.png?raw=true)
