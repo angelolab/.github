@@ -6,6 +6,6 @@ labels: question
 assignees: ''
 
 ---
-If you have a general question or aren't sure where to get started, please head to the discussion section of the repository:
+If you have a general question or aren't sure where to get started, please head to the discussion section of the repository, which can be found at the top menu:
 
-![](discussion_section.png)
+![](discussion_link.png)
