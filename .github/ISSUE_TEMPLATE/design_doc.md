@@ -36,7 +36,7 @@ Provide a description of the outputs for this project. If any plots will be gene
 Give a rough estimate for how long you think the project will take. In general, it's better to be too conservative rather than too optimistic. 
 - [ ] A couple days
 - [ ] A week
-- [ ] Multiple weeks
+- [ ] Multiple weeks. For large projects, make sure to agree on a plan that isn't just a single monster PR at the end. 
 
 Estimated date when a fully implemented version will be ready for review:
 
