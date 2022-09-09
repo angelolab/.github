@@ -9,7 +9,8 @@ assignees: ''
 
 *This is for internal use only; if you'd like to open an issue or request a new feature, please open a bug or enhancement issue*
 
-**Section 1: Design details**
+### Instructions
+This document should be filled out prior to embarking on any project that will take more than a couple hours to complete. The goal is to make sure that everyone is on the same page for the functionality and requirements of new features. Therefore, it's important that this is detailed enough to catch any misunderstandings beforehand. For larger projects, it can be useful to first give a high-level sketch, and then go back and fill in the details. For smaller ones, filling the entire thing out at once can be sufficient.  
 
 **Relevant background**
 
@@ -17,31 +18,26 @@ Give a brief (1-2 paragraph) description of the problem/issue that this feature 
 
 **Design overview**
 
-Describe each of the main components of the proposed project
+Give a high-level description of what the proposed project will actually do
 
-**Design list/flowchart**
+**Code mockup**
 
-Provide an overview of how the different pieces of the project will interact with each other, either in a numbered list, bullet point, or brief sketch
+Provide a more detailed description of how the project will implement the above functionality. This should describe the logical flow of the program, detailing how the different parts interact with each other. It should list the specific helper functions that will be created, either with a description of what they'll do, or with psuedo-code for how they'll be implemented. 
 
 **Required inputs**
 
-Provided a description of the required inputs for this project, including column names for dfs, dimensions for image data, prompts for user input, etc
+Provided a description of the required inputs for this project, including column names for dfs, dimensions for image data, prompts for user input, directory structure for loading data, etc
 
 **Output files**
 
-Provide a description of the outputs for this project, including column names for dfs, dimensions for image data, etc. If any plots will be generated, 
-provide (simple) sketches demonstrating the plot type and axes labels. 
+Provide a description of the outputs for this project. If any plots will be generated, provide (simple) sketches demonstrating the plot type and axes labels. 
 
-**Section 2: Implementation details**
+**Timeline**
+Give a rough estimate for how long you think the project will take. In general, it's better to be too conservative rather than too optimistic. 
+- [ ] A couple days
+- [ ] A week
+- [ ] Multiple weeks. For large projects, make sure to agree on a plan that isn't just a single monster PR at the end. 
 
-Once you have completed section 1, please tag the relevant parties and iterate on the initial design details until everyone is satisfied. Then, 
-proceed to section 2
+Estimated date when a fully implemented version will be ready for review:
 
-**Control flow**
-
-Provide additional, more granular details (if necessary) about how the proposed coding logic will be put together
-
-**Milestones and timeline**
-
-List each of the major components of the project, and provide an estimated completion date for each one. 
-
+Estimated date when the finalized project will be merged in: 
