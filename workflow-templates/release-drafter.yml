@@ -2,12 +2,8 @@ name: Release Drafter
 
 on:
   push:
-    # branches to consider in the event; optional, defaults to all
+    # branches to consider in the event: the default branch for each repo, currently 'main'.
     branches: [$default-branch]
-  # pull_request event is required only for autolabeler
-  merge_group:
-    # Only following types are handled by the action, but one can default to all as well
-    types: [closed]
 
 permissions:
   contents: read
