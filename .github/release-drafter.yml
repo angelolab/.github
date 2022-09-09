@@ -18,12 +18,7 @@ categories:
     labels:
       - 'documentation'
 
-change-template: |
-  <details>
-    <summary>$TITLE @$AUTHOR (#$NUMBER)</summary>
-
-    $BODY
-  </details>
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 
@@ -40,7 +35,7 @@ version-resolver:
       - 'bug'
       - 'packages'
       - 'documentation'
-  default: minor
+  default: patch
 
 template: |
   $CHANGES
